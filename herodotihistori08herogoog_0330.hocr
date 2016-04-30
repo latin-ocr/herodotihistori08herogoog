@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotihistori08herogoog_0330.png"; bbox 0 0 631 925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 75 767 476 821">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 75 767 476 820">
+     <span class='ocr_line' id='line_1_1' title="bbox 76 767 476 790; baseline -0.005 -9"><span class='ocrx_word' id='word_1_1' title='bbox 76 767 81 780; x_wconf 70' lang='grc' dir='ltr'><em>ἁ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 87 767 151 785; x_wconf 54' lang='lat' dir='ltr'><strong>arms</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 164 767 179 781; x_wconf 67' lang='grc' dir='ltr'><em>ἠ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 188 767 221 780; x_wconf 64' lang='grc' dir='ltr'><strong>παῖ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 223 767 306 783; x_wconf 58' lang='lat' dir='ltr'><em>mmmm,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 317 772 335 782; x_wconf 66' lang='grc' dir='ltr'><strong>εις</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 344 771 358 780; x_wconf 68' lang='grc' dir='ltr'><strong><em>η</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 364 767 414 790; x_wconf 47' lang='grc' dir='ltr'><strong>ζιαιρὸς</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 419 767 476 790; x_wconf 65' lang='lat' dir='ltr'><strong>J²Y“?⁰.¹&#39;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 75 786 431 806; baseline 0 -5"><span class='ocrx_word' id='word_1_10' title='bbox 75 788 94 802; x_wconf 63' lang='lat'><strong>121</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 105 788 174 806; x_wconf 57' lang='lat' dir='ltr'><strong>matun</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 185 788 227 804; x_wconf 62' lang='grc' dir='ltr'><strong>ἔψη,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 236 786 292 802; x_wconf 57' lang='lat' dir='ltr'><strong>mma,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 303 786 341 801; x_wconf 68' lang='grc' dir='ltr'><strong>εόνω</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 349 792 374 801; x_wconf 70' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 381 786 431 806; x_wconf 63' lang='grc' dir='ltr'><strong>,μηρὸς</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 87 808 374 821; baseline 0 -1"><span class='ocrx_word' id='word_1_17' title='bbox 87 809 153 821; x_wconf 68' lang='lat' dir='ltr'>utI-on.</span> <span class='ocrx_word' id='word_1_18' title='bbox 161 809 172 820; x_wconf 85' lang='grc' dir='ltr'><strong>Ι.</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 365 808 374 820; x_wconf 73' lang='grc' dir='ltr'><strong>Β</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 567 82 570 690">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 567 82 570 690">
+     <span class='ocr_line' id='line_1_4' title="bbox 567 82 570 690; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 567 82 570 690; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

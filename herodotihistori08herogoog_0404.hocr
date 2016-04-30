@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotihistori08herogoog_0404.png"; bbox 0 0 631 925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 798 230 804">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 798 230 804">
+     <span class='ocr_line' id='line_1_1' title="bbox 201 798 230 804"><span class='ocrx_word' id='word_1_1' title='bbox 201 798 230 804; x_wconf 37' lang='lat' dir='ltr'><strong>„w</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 167 798 190 801"><span class='ocrx_word' id='word_1_2' title='bbox 167 798 190 801; x_wconf 40' lang='lat' dir='ltr'><strong>W</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 133 798 165 801"><span class='ocrx_word' id='word_1_3' title='bbox 133 798 165 801; x_wconf 46' lang='lat' dir='ltr'>w</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 122 798 129 801"><span class='ocrx_word' id='word_1_4' title='bbox 122 798 129 801; x_wconf 89' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 76 189 112 828">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 76 189 112 828">
+     <span class='ocr_line' id='line_1_5' title="bbox 76 189 112 828"><span class='ocrx_word' id='word_1_5' title='bbox 81 189 100 223; x_wconf 57' lang='lat' dir='ltr'>Z</span> <span class='ocrx_word' id='word_1_6' title='bbox 80 235 100 618; x_wconf 36' lang='lat' dir='ltr'><strong>&amp;312&amp;wmsfflsswffssmwm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 80 645 112 804; x_wconf 36' lang='lat' dir='ltr'><strong>mwwmfflu‘wm.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 76 824 108 828; x_wconf 34' lang='lat' dir='ltr'><strong>„W</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
